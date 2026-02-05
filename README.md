@@ -1,10 +1,10 @@
-# Supporting Information: On the Viability of Kohn-Sham Densities for Improving Coupled Cluster Accuracy
+# Supporting Information: Kohn-Sham density encoding rescues coupled cluster theory for strongly correlated molecules 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17958091.svg)](https://doi.org/10.5281/zenodo.17958091)
 
 Supporting code and analysis for the manuscript:
 
-> **On the Viability of Kohn-Sham Densities for Improving Coupled Cluster Accuracy**  
+> **Kohn-Sham density encoding rescues coupled cluster theory for strongly correlated molecules**  
 > Abdulrahman Y. Zamani, Barbaro Zulueta, Andrew M. Ricciuti, John A. Keith, and Kevin Carter-Fenk  
 > (2025)
 
@@ -180,7 +180,7 @@ If you use this code or data, please cite:
 
 ```bibtex
 @article{Zamani2025ms,
-  title={On the Viability of Kohn-Sham Densities for Improving Coupled Cluster Accuracy},
+  title={Kohn-Sham density encoding rescues coupled cluster theory for strongly correlated molecules},
   author={Zamani, Abdulrahman Y. and Zulueta, Barbaro and Ricciuti, Andrew M. and Keith, John A. and Carter-Fenk, Kevin},
   year={2025}
 }
@@ -190,7 +190,7 @@ And the data repository:
 
 ```bibtex
 @dataset{Zamani2025data,
-  title={Supporting Data: On the Viability of Kohn-Sham Densities for Improving Coupled Cluster Accuracy},
+  title={Supporting Data: Kohn-Sham density encoding rescues coupled cluster theory for strongly correlated molecules},
   author={Zamani, Abdulrahman Y. and Zulueta, Barbaro and Ricciuti, Andrew M. and Keith, John A. and Carter-Fenk, Kevin},
   year={2025},
   publisher={Zenodo},
