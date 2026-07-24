@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the manuscript and the archived code release below."
+title: "cc-dft: Supporting code for 'Improving coupled cluster theory for strongly correlated molecules with Kohn-Sham density encoding'"
+type: software
+license: MIT
+repository-code: "https://github.com/BLZ11/cc-dft"
+authors:
+  - family-names: Zamani
+    given-names: Abdulrahman Y.
+  - family-names: Zulueta
+    given-names: Barbaro
+    affiliation: University of Pittsburgh
+  - family-names: Ricciuti
+    given-names: Andrew M.
+    affiliation: University of Pittsburgh
+  - family-names: Keith
+    given-names: John A.
+    affiliation: University of Pittsburgh
+  - family-names: Carter-Fenk
+    given-names: Kevin
+    affiliation: University of Pittsburgh
+doi: 10.5281/zenodo.21521932
+preferred-citation:
+  type: article
+  title: "Improving coupled cluster theory for strongly correlated molecules with Kohn-Sham density encoding"
+  year: 2025
+  authors:
+    - family-names: Zamani
+      given-names: Abdulrahman Y.
+    - family-names: Zulueta
+      given-names: Barbaro
+    - family-names: Ricciuti
+      given-names: Andrew M.
+    - family-names: Keith
+      given-names: John A.
+    - family-names: Carter-Fenk
+      given-names: Kevin

@@ -1,6 +1,7 @@
-# Supporting Information: Improving coupled cluster theory for strongly correlated molecules with Kohn-Sham density encoding
+# Supporting Information: Kohn-Sham density encoding rescues coupled cluster theory for strongly correlated molecules 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17958091.svg)](https://doi.org/10.5281/zenodo.17958091)
+[![Code DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21521932.svg)](https://doi.org/10.5281/zenodo.21521932)
+[![Data DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17958091.svg)](https://doi.org/10.5281/zenodo.17958091)
 
 Supporting code and analysis for the manuscript:
 
@@ -210,6 +211,19 @@ If you use this code or data, please cite:
   title={Improving coupled cluster theory for strongly correlated molecules with Kohn-Sham density encoding},
   author={Zamani, Abdulrahman Y. and Zulueta, Barbaro and Ricciuti, Andrew M. and Keith, John A. and Carter-Fenk, Kevin},
   year={2025}
+}
+```
+
+The archived code release:
+
+```bibtex
+@software{Zamani2025code,
+  title={cc-dft: Supporting code for 'Improving coupled cluster theory for strongly correlated molecules with Kohn-Sham density encoding'},
+  author={Zamani, Abdulrahman Y. and Zulueta, Barbaro and Ricciuti, Andrew M. and Keith, John A. and Carter-Fenk, Kevin},
+  year={2025},
+  publisher={Zenodo},
+  doi={10.5281/zenodo.21521932},
+  url={https://github.com/BLZ11/cc-dft}
 }
 ```
 
